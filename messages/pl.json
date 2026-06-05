@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "title": {
+      "default": "Galeria Malarstwa WIT",
+      "template": "%s | Galeria Malarstwa WIT"
+    },
+    "description": "Galeria prac malarskich studentów Akademii WIT — program Grafika, malarstwo.wit.edu.pl",
+    "about": "O przedmiocie",
+    "contact": "Kontakt",
+    "gallery": "Galeria",
+    "instructors": "Prowadzący",
+    "workNotFound": "Nie znaleziono pracy"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "about": "O przedmiocie",
+    "gallery": "Galeria",
+    "instructors": "Prowadzący",
+    "contact": "Kontakt"
+  },
+  "brand": {
+    "short": "Galeria Malarstwa",
+    "full": "Galeria Malarstwa WIT"
+  },
+  "a11y": {
+    "skipToContent": "Przejdź do treści",
+    "mainNav": "Nawigacja główna",
+    "homeLink": "Galeria Malarstwa WIT — strona główna",
+    "logoAlt": "Logo Akademii WIT",
+    "mainMenu": "Menu główne",
+    "openMenu": "Otwórz menu",
+    "mobileNav": "Nawigacja mobilna",
+    "closeMenu": "Zamknij menu",
+    "mobileMenu": "Menu mobilne",
+    "footerNav": "Stopka",
+    "close": "Zamknij",
+    "academyLogoAlt": "Akademia WIT",
+    "carousel": {
+      "previous": "Poprzedni slajd",
+      "next": "Następny slajd"
+    }
+  },
+  "footer": {
+    "tagline": "Wyselekcjonowana prezentacja prac malarskich studentów kierunku Grafika na Akademii WIT w Warszawie.",
+    "browse": "Przeglądaj",
+    "academy": "Akademia WIT",
+    "copyright": "Antoni Karlsson © {year} Akademia WIT"
+  },
+  "hero": {
+    "academy": "Akademia WIT w Warszawie",
+    "title": "Galeria Malarstwa WIT",
+    "subtitle": "Odkryj prace malarskie studentów Grafiki — od pierwszych martwych natur po zaawansowane kompozycje pracowni.",
+    "cta": "Przeglądaj galerię"
+  },
+  "home": {
+    "featured": {
+      "title": "Wybrane prace",
+      "subtitle": "Wyróżnione obrazy z ostatnich semestrów, wybrane przez prowadzących.",
+      "viewAll": "Zobacz wszystkie"
+    },
+    "subject": {
+      "title": "Malarstwo w Akademii WIT",
+      "paragraph1": "Przedmiot malarstwo na Wydziale Informatyki i Grafiki obejmuje trzy semestry na kierunku Grafika. Studenci rozwijają umiejętności obserwacji natury, teorię barw, kompozycję na płaszczyźnie oraz warsztat malarski poprzez ćwiczenia studyjne i tworzenie samodzielnych kompozycji kolorystycznych.",
+      "paragraph2": "Na zajęciach powstają m.in. szkice i studia martwej natury, studia postaci i pejzażu, kompozycje tematyczne oraz prace abstrakcyjne i użytkowe.",
+      "cta": "Dowiedz się więcej o przedmiocie"
+    }
+  },
+  "about": {
+    "title": "Malarstwo w WIT",
+    "intro": "Przedmiot malarstwo na Wydziale Informatyki i Grafiki Akademii WIT obejmuje trzy semestry w programie kierunku Grafika. Studenci pracują nad obserwacją natury, teorią barw, kompozycją i technikami malarskimi - od podstawowych ćwiczeń studyjnych po samodzielne kompozycje kolorystyczne. Galeria dokumentuje wybrane prace semestralne i wspiera rekrutację, promocję oraz portfolio studentów.",
+    "faq": {
+      "scope": {
+        "question": "Czego dotyczy przedmiot malarstwo?",
+        "answer": "Malarstwo prowadzone jest na Wydziale Informatyki i Grafiki w ramach kierunku Grafika. W trakcie trzech semestrów studenci poznają teorię barw i kompozycję na płaszczyźnie, uczą się budować obraz kolorem oraz pracować na podstawie szkicu lub fotografii referencyjnej. Zajęcia obejmują obserwację natury - martwą naturę, model w pracowni i pejzaż a także kompozycje z wyobraźni, ćwiczenia abstrakcyjne i projekty użytkowe."
+      },
+      "competencies": {
+        "question": "Jakie kompetencje rozwijają studenci?",
+        "answer": "Studenci zdobywają wiedzę o barwie, kompozycji kolorystycznej i technikach malarskich, uczą się analizować formę oraz budować obraz kolorem - w tym z wykorzystaniem temperatury barwy, faktur i struktur. Rozwijają umiejętność tworzenia własnej wypowiedzi artystycznej, świadomego doboru środków malarskich oraz prezentacji i oceny prac własnych i cudzych. Nabierają też świadomości roli obserwacji natury i koloru jako podstawowych środków wyrazu w przestrzeni kulturowej i społecznej."
+      },
+      "format": {
+        "question": "Jak zorganizowane są zajęcia?",
+        "answer": "Przedmiot składa się z trzech semestrów: Malarstwo 1, 2 i 3. Pierwszy semestr koncentruje się na podstawach - teorii kolorów, rodzajach kompozycji i technikach malarskich wodnych w pracy studyjnej. Drugi rozwija warsztat i obserwację natury, łącząc studia z martwej natury, postaci i pejzażu z kompozycjami tematycznymi oraz abstrakcyjnymi. Trzeci semestr pogłębia pracę kolorem: temperaturę barwy, perspektywę, postać, fakturę i strukturę, kończąc się przeglądem prac semestralnych."
+      },
+      "works": {
+        "question": "Jakie rodzaje prac powstają?",
+        "answer": "Na zajęciach powstają m.in. krótkie szkice malarskie, studia martwej natury i przedmiotu, kompozycje kolorystyczne na temat dowolny i zadany, fragmenty większej całości, studia postaci i pejzażu, ćwiczenia geometryczne i kolorystyczne, prace z postacią w ruchu, martwe natury w bielach oraz kompozycje abstrakcyjne. Każdy semestr kończy się przeglądem prac. Wybrane realizacje mogą trafić do tej galerii po zatwierdzeniu przez prowadzącego."
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "intro": "W kwestiach dotyczących kierunku Grafika lub przedmiotu malarstwo skontaktuj się z Akademią WIT korzystając z poniższych danych.",
+    "academy": {
+      "title": "Akademia WIT",
+      "addressLine1": "ul. Newelska 6,",
+      "addressLine2": "01-447 Warszawa",
+      "emailLabel": "E-mail:"
+    },
+    "website": {
+      "title": "Strona Akademii WIT"
+    },
+    "submissions": {
+      "title": "Przekazywanie prac",
+      "body": "Studenci przekazują zatwierdzone obrazy prowadzącemu semestru na koniec roku. Prowadzący dostarczają pliki graficzne (JPEG lub PNG, minimum 2000 px na dłuższym boku) oraz metadane (tytuł, technika, wymiary). Prace są dodawane do galerii przez personel programu przed publikacją."
+    }
+  },
+  "instructors": {
+    "title": "Prowadzący",
+    "intro": "Poznaj wykładowców kierunku Grafika w Akademii WIT prowadzących studentów przez tradycyjne techniki plastyczne, w tym malarstwo, oraz nowoczesne narzędzia cyfrowe.",
+    "card": {
+      "viewProfileAria": "Zobacz profil: {name}",
+      "portraitAlt": "Portret: {name}"
+    },
+    "modal": {
+      "website": "Strona www →"
+    }
+  },
+  "gallery": {
+    "title": "Galeria",
+    "intro": "Przeglądaj prace studentów według semestru i techniki. Wybierz pracę, aby zobaczyć szybki jej podgląd oraz przejść na dedykowaną stronę pracy.",
+    "emptyFilters": "Żadna praca nie pasuje do wybranych filtrów.",
+    "card": {
+      "viewAria": "Zobacz: {title}",
+      "imageAlt": "{title} — {author}"
+    }
+  },
+  "work": {
+    "backToGallery": "← Wróć do galerii",
+    "fields": {
+      "academicYear": "Rok akademicki",
+      "semester": "Semestr",
+      "technique": "Technika",
+      "dimensions": "Wymiary",
+      "instructor": "Prowadzący"
+    },
+    "navAriaLabel": "Nawigacja między pracami",
+    "imageAlt": "{title} — {author}",
+    "modal": {
+      "openFullPage": "Otwórz pełną stronę pracy →",
+      "fullViewAlt": "{title} — widok pełny"
+    }
+  },
+  "filters": {
+    "ariaLabel": "Filtry galerii",
+    "semesterLabel": "Semestr",
+    "techniqueLabel": "Technika",
+    "all": "Wszystkie",
+    "semester": "Semestr {n}",
+    "worksCount": "{count, plural, one {# praca} few {# prace} other {# prac}}",
+    "technique": {
+      "oil": "Olej",
+      "watercolour": "Akwarela",
+      "acrylic": "Akryl",
+      "gouache": "Gwasz",
+      "tempera": "Tempera",
+      "mixed": "Technika mieszana"
+    }
+  }
+}
