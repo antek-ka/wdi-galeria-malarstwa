@@ -5,6 +5,7 @@
 **Obszar:** Prace malarskie studentów - kierunek Grafika, Akademia WIT w Warszawie  
 **Szybki start:** `pnpm install && pnpm dev` → http://localhost:3000
 **Repozytorium:** [Github](https://github.com/antek-ka/wdi-galeria-malarstwa.git)
+**Live URL aplikacji:** [https://wdi-galeria-malarstwa.vercel.app/](https://wdi-galeria-malarstwa.vercel.app/)
 
 ## Spis dokumentacji
 
